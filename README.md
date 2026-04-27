@@ -23,16 +23,22 @@
 ### `~/about-me`
 
 ```yaml
-name        : Harshita Gogia
-pronouns    : she/her
-based_in    : India 🇮🇳
-role        : AI Prompt Engineer
-focus       : Build | Learn | Grow
-currently   : Exploring AI & ML
-open_to     : Collaborations & opportunities
+name         : Harshita Gogia
+location     : India 🇮🇳
+role         : AI Prompt Engineer
+career_goal  : Transitioning into AI Engineering
+background   : MSc Mathematics
+focus        : Generative AI | LLMs | ML | AI Systems
+currently    : Building projects and preparing for AI Engineer roles
+open_to      : Collaborations | Opportunities | Hackathons
 ```
 
 > *"Code is how I articulate my ideas to the world."*
+> *I come from a mathematics background and built my journey into AI through self-learning, projects, and real-world work experience.
+
+Currently, I work as an AI Prompt Engineer where I train models, design prompt systems, and help build AI solutions based on business requirements.
+
+My goal is simple: build useful AI systems that solve real problems.*
 
 </td>
 <td width="45%" valign="top">
@@ -45,9 +51,9 @@ open_to     : Collaborations & opportunities
 
 🧩 Obsessed with turning data into decisions
 
-✍️ I believe great software is great thinking
+✍️ Participating in hackathons and collaborative AI projects
 
-🎯 2025 goal: Ship. Learn. Repeat.
+🎯 2026 goal: Take responsbilities in leadership. Learn. Make AI.
 
 </td>
 </tr>
@@ -72,28 +78,18 @@ open_to     : Collaborations & opportunities
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=E8C5A0)
 ![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=E8C5A0)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=E8C5A0)
+![FastAPI](https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=FastAPI&logoColor=E8C5A0)
+![RAG](https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=RAG&logoColor=E8C5A0)
+
+
 
 **AI & APIs**
 
 ![Groq](https://img.shields.io/badge/Groq_LLaMA-1a1a2e?style=for-the-badge&logo=meta&logoColor=E8C5A0)
 ![OpenAI](https://img.shields.io/badge/OpenAI-1a1a2e?style=for-the-badge&logo=openai&logoColor=E8C5A0)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=E8C5A0)
+![OpenRouter](https://img.shields.io/badge/HuggingFace-1a1a2e?style=for-the-badge&logo=OpenROuter&logoColor=E8C5A0)
 
-</div>
-
----
-
-## `~/github-story 📈`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GitHub-Harshita&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=E8C5A0&icon_color=E8C5A0&text_color=c9d1d9&rank_icon=github" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-Harshita&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=E8C5A0&text_color=c9d1d9" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GitHub-Harshita&theme=tokyonight&hide_border=true&background=0d0d1a&ring=E8C5A0&fire=E8C5A0&currStreakLabel=E8C5A0" />
 
 </div>
 
