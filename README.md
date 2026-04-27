@@ -1,17 +1,15 @@
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║         HARSHITA'S GITHUB PROFILE README                 ║ -->
+<!-- ║         HARSHITA GOGIA — GITHUB PROFILE README           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- Animated name banner using SVG -->
 <a href="https://github.com/github-harshita">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=3000&pause=1000&color=E8C5A0&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+I'm+Harshita+%F0%9F%91%8B;Builder.+Thinker.+Creator.;Welcome+to+my+corner+of+GitHub." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=3000&pause=1000&color=E8C5A0&center=true&vCenter=true&width=700&height=80&lines=Hey%2C+I'm+Harshita+Gogia+%F0%9F%91%8B;AI+Prompt+Engineer.+Builder.+Learner.;Welcome+to+my+corner+of+GitHub." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Subtle separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
@@ -29,8 +27,8 @@ name        : Harshita Gogia
 pronouns    : she/her
 based_in    : India 🇮🇳
 role        : AI Prompt Engineer
-focus       : Build |Learn| Grow
-currently   : Exploring AI
+focus       : Build | Learn | Grow
+currently   : Exploring AI & ML
 open_to     : Collaborations & opportunities
 ```
 
@@ -41,13 +39,13 @@ open_to     : Collaborations & opportunities
 
 ### `~/now-brewing ☕`
 
-🔭 Working on something exciting (stay tuned!)
+🤖 Building AI-powered tools for real-world problems
 
-🌱 Leveling up in **system design** & **AI/ML**
+🌱 Leveling up in **LLMs**, **Deep Learning** & **MLOps**
 
-🧩 Obsessed with clean architecture
+🧩 Obsessed with turning data into decisions
 
-✍️ I believe great software is great writing
+✍️ I believe great software is great thinking
 
 🎯 2025 goal: Ship. Learn. Repeat.
 
@@ -61,32 +59,27 @@ open_to     : Collaborations & opportunities
 
 <div align="center">
 
-**Languages**
+**Languages & AI/ML**
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=E8C5A0)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=E8C5A0)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=E8C5A0)
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=E8C5A0)
-![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=E8C5A0)
+![Jupyter](https://img.shields.io/badge/Jupyter-1a1a2e?style=for-the-badge&logo=jupyter&logoColor=E8C5A0)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E8C5A0)
 
 **Frameworks & Tools**
 
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=E8C5A0)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=E8C5A0)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=E8C5A0)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=E8C5A0)
+![Flask](https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=flask&logoColor=E8C5A0)
+![scikit--learn](https://img.shields.io/badge/Scikit--Learn-1a1a2e?style=for-the-badge&logo=scikit-learn&logoColor=E8C5A0)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=E8C5A0)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=E8C5A0)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=E8C5A0)
 
-**Databases & Cloud**
+**AI & APIs**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=E8C5A0)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=E8C5A0)
-![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=E8C5A0)
-![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=for-the-badge&logo=firebase&logoColor=E8C5A0)
+![Groq](https://img.shields.io/badge/Groq_LLaMA-1a1a2e?style=for-the-badge&logo=meta&logoColor=E8C5A0)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1a2e?style=for-the-badge&logo=openai&logoColor=E8C5A0)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=E8C5A0)
 
 </div>
-
-> ✏️ *Replace or remove any badges that don't match your actual stack — accuracy > aesthetics!*
 
 ---
 
@@ -94,13 +87,13 @@ open_to     : Collaborations & opportunities
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=github-harshita&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=E8C5A0&icon_color=E8C5A0&text_color=c9d1d9&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GitHub-Harshita&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=E8C5A0&icon_color=E8C5A0&text_color=c9d1d9&rank_icon=github" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-harshita&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=E8C5A0&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-Harshita&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=E8C5A0&text_color=c9d1d9" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=github-harshita&theme=tokyonight&hide_border=true&background=0d0d1a&ring=E8C5A0&fire=E8C5A0&currStreakLabel=E8C5A0" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GitHub-Harshita&theme=tokyonight&hide_border=true&background=0d0d1a&ring=E8C5A0&fire=E8C5A0&currStreakLabel=E8C5A0" />
 
 </div>
 
@@ -110,18 +103,25 @@ open_to     : Collaborations & opportunities
 
 <div align="center">
 
-<!-- Replace the repo names below with your actual project repos -->
-<a href="https://github.com/github-harshita">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=github-harshita&repo=AI Python Tutor&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=E8C5A0&text_color=c9d1d9&icon_color=E8C5A0" />
+<a href="https://github.com/GitHub-Harshita/AI_Python_Tutor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-Harshita&repo=AI_Python_Tutor&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=E8C5A0&text_color=c9d1d9&icon_color=E8C5A0" />
 </a>
 &nbsp;
-<a href="https://github.com/github-harshita">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=github-harshita&repo=Stock Price Prediction&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=E8C5A0&text_color=c9d1d9&icon_color=E8C5A0" />
+<a href="https://github.com/GitHub-Harshita/Stocks-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-Harshita&repo=Stocks-Prediction&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=E8C5A0&text_color=c9d1d9&icon_color=E8C5A0" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/GitHub-Harshita/ANN-Classification-Churn">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-Harshita&repo=ANN-Classification-Churn&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=E8C5A0&text_color=c9d1d9&icon_color=E8C5A0" />
+</a>
+&nbsp;
+<a href="https://github.com/GitHub-Harshita/MachineLearningAlgorithms">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-Harshita&repo=MachineLearningAlgorithms&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=E8C5A0&text_color=c9d1d9&icon_color=E8C5A0" />
 </a>
 
 </div>
-
-> ✏️ *Replace `YOUR-REPO-1` and `YOUR-REPO-2` with your actual pinned repo names.*
 
 ---
 
@@ -130,21 +130,20 @@ open_to     : Collaborations & opportunities
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitagogia/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See_my_work-E8C5A0?style=for-the-badge&logo=firefox&logoColor=1a1a2e)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See_my_work-E8C5A0?style=for-the-badge&logo=firefox&logoColor=1a1a2e)](https://github.com/GitHub-Harshita/myportfolio)
 [![Email](https://img.shields.io/badge/Email-Say_hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qxt.harshita@gmail.com)
 
 <br/>
 
-<!-- Snake animation — set this up with GitHub Actions (instructions below) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/github-harshita/github-harshita/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/github-harshita/github-harshita/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/github-harshita/github-harshita/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GitHub-Harshita/GitHub-Harshita/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GitHub-Harshita/GitHub-Harshita/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/GitHub-Harshita/GitHub-Harshita/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=github-harshita&style=for-the-badge&color=E8C5A0&label=Profile+Visits)
+![Profile views](https://komarev.com/ghpvc/?username=GitHub-Harshita&style=for-the-badge&color=E8C5A0&label=Profile+Visits)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
