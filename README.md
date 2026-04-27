@@ -23,18 +23,19 @@
 ### `~/about-me`
 
 ```yaml
-name         : Harshita Gogia
-location     : India 🇮🇳
-role         : AI Prompt Engineer
-career_goal  : Transitioning into AI Engineering
-background   : MSc Mathematics
-focus        : Generative AI | LLMs | ML | AI Systems
-currently    : Building projects and preparing for AI Engineer roles
-open_to      : Collaborations | Opportunities | Hackathons
+Name         : Harshita Gogia
+Location     : India 🇮🇳
+Role         : AI Prompt Engineer
+Career Goal  : Transitioning into AI Engineering
+Background   : MSc Mathematics
+Focus        : Generative AI | LLMs | ML | AI Systems
+Currently    : Building AI projects
+Open_to      : Collaborations | Opportunities | Hackathons
 ```
 
 > *"Code is how I articulate my ideas to the world."*
-> *I come from a mathematics background and built my journey into AI through self-learning, projects, and real-world work experience.
+
+I come from a mathematics background and built my journey into AI through self-learning, projects, and real-world work experience.
 
 Currently, I work as an AI Prompt Engineer where I train models, design prompt systems, and help build AI solutions based on business requirements.
 
