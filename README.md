@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/github-harshita">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=3000&pause=1000&color=E8C5A0&center=true&vCenter=true&width=700&height=80&lines=Hey%2C+I'm+Harshita+Gogia+%F0%9F%91%8B;AI+Prompt+Engineer.;Builder.+Learner.;Welcome+to+my+corner+of+GitHub." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=3000&pause=1000&color=E8C5A0&center=true&vCenter=true&width=700&height=80&lines=Hey%2C+I'm+Harshita+Gogia+%F0%9F%91%8B;AI+Prompt+Engineer!;Builder.+Learner.+Innovator.;Welcome+to+my+corner+of+GitHub." alt="Typing SVG" />
 </a>
 
 <br/>
