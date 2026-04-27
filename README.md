@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/github-harshita">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=3000&pause=1000&color=E8C5A0&center=true&vCenter=true&width=700&height=80&lines=Hey%2C+I'm+Harshita+Gogia+%F0%9F%91%8B;AI+Prompt+Engineer.+Builder.+Learner.;Welcome+to+my+corner+of+GitHub." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=3000&pause=1000&color=E8C5A0&center=true&vCenter=true&width=700&height=80&lines=Hey%2C+I'm+Harshita+Gogia+%F0%9F%91%8B;AI+Prompt+Engineer.;Builder.+Learner.;Welcome+to+my+corner+of+GitHub." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -74,21 +74,21 @@ My goal is simple: build useful AI systems that solve real problems.*
 **Frameworks & Tools**
 
 ![Flask](https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=flask&logoColor=E8C5A0)
-![scikit--learn](https://img.shields.io/badge/Scikit--Learn-1a1a2e?style=for-the-badge&logo=scikit-learn&logoColor=E8C5A0)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1a1a2e?style=for-the-badge&logo=scikit-learn&logoColor=E8C5A0)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=E8C5A0)
 ![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=E8C5A0)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=E8C5A0)
-![FastAPI](https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=FastAPI&logoColor=E8C5A0)
-![RAG](https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=RAG&logoColor=E8C5A0)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=E8C5A0)
+![RAG](https://img.shields.io/badge/RAG-1a1a2e?style=for-the-badge&logo=data&logoColor=E8C5A0)
 
 
 
 **AI & APIs**
 
-![Groq](https://img.shields.io/badge/Groq_LLaMA-1a1a2e?style=for-the-badge&logo=meta&logoColor=E8C5A0)
+![Groq LLaMA](https://img.shields.io/badge/Groq_LLaMA-1a1a2e?style=for-the-badge&logo=meta&logoColor=E8C5A0)
 ![OpenAI](https://img.shields.io/badge/OpenAI-1a1a2e?style=for-the-badge&logo=openai&logoColor=E8C5A0)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=E8C5A0)
-![OpenRouter](https://img.shields.io/badge/HuggingFace-1a1a2e?style=for-the-badge&logo=OpenROuter&logoColor=E8C5A0)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-1a1a2e?style=for-the-badge&logo=openrouter&logoColor=E8C5A0)
 
 
 </div>
