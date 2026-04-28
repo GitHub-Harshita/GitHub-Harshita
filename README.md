@@ -1,5 +1,5 @@
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║         HARSHITA GOGIA — GITHUB PROFILE README           ║ -->
+<!-- ║         HARSHITA GOGIA: GITHUB PROFILE README           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
