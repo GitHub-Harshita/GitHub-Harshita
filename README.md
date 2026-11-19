@@ -99,7 +99,7 @@ My goal is simple: build useful AI systems that solve real problems.*
 
 <div align="center">
 
-<a href="https://github.com/GitHub-Harshita/AI_Python_Tutor">
+<a href="https://github.com/GitHub-Harshita/pytutor-ai">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=GitHub-Harshita&repo=AI_Python_Tutor&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=E8C5A0&text_color=c9d1d9&icon_color=E8C5A0" />
 </a>
 &nbsp;
